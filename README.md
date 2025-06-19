@@ -1,0 +1,2 @@
+# ocr_beancard_recogizer
+拍照识别豆卡上的咖啡豆信息并写入csv文件
